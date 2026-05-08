@@ -2,7 +2,7 @@
 Code to reproduce figures for PNI histamine paper
 
 ## Figure 1
-* 1B: `figure1A.R` 
+* 1B: `figure1_broad_umap.R` 
 * 1C: `broad_umap_marker_genes.R`
 * 1D: `tumor_cell_umaps.R`
 * 1E: `pni_epithelial_scores.R`
